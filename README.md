@@ -1,4 +1,7 @@
 # ui-persistent-bottomsheet-vue-example
+`Android emulator`
+
+`Android Version: 12`
 
 ```
 System.err: Unable to start activity ComponentInfo{org.nativescript.uipersistentbottomsheetvue/com.tns.NativeScriptActivity}: com.tns.NativeScriptException: Calling js method onCreate failed
