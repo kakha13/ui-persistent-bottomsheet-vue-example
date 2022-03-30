@@ -3,6 +3,8 @@
 
 `Android Version: 12`
 
+https://github.com/nativescript-community/ui-persistent-bottomsheet/issues/6
+
 ```
 System.err: Unable to start activity ComponentInfo{org.nativescript.uipersistentbottomsheetvue/com.tns.NativeScriptActivity}: com.tns.NativeScriptException: Calling js method onCreate failed
 System.err: Error: a Page or a GestureRootView is needed to attach a gesture
