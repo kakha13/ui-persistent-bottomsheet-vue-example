@@ -40,3 +40,11 @@ System.err:     at android.app.Instrumentation.callActivityOnCreate(Instrumentat
 System.err:     at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3666)
 System.err:     ... 12 more
 ```
+
+
+## Update
+So I found problem about gesture it was not installing.
+in `app.js` Imported install and run it
+
+`import { install as installGestures } from '@nativescript-community/gesturehandler';`
+`installGestures();`
